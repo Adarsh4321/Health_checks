@@ -4,3 +4,4 @@ def summ(a,b):
 
 x=summ(4,5)
 print(x)
+print(x-1)

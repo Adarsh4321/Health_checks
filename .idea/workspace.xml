@@ -20,11 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ff55ca6-d068-463f-8882-832c5d8d81dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Health_checks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/disk_u.py" beforeDir="false" afterPath="$PROJECT_DIR$/disk_u.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -2,8 +2,8 @@ print("HEllo world")
 def summ(a,b):
   return a+b
 
-def sub(a,b):
-  return a-b
+def sub(m,n):
+  return m-n
 
 
 x=summ(4,5)
